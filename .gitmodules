@@ -1,0 +1,6 @@
+[submodule "Software-Updater-Admin"]
+	path = Software-Updater-Admin
+	url = https://github.com/NethunRanasinghe/Software-Updater-Admin
+[submodule "Software-Updater-Client"]
+	path = Software-Updater-Client
+	url = https://github.com/NethunRanasinghe/Software-Updater-Client
