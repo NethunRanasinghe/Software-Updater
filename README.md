@@ -3,6 +3,7 @@
 ## 1. Software Updater - Admin
 
 > This is the admin side of the software, where the user has the ability to upload new updates and patches to google drive.
+> [Project URL](https://github.com/NethunRanasinghe/Software-Updater-Admin)
 
 ---
 
@@ -17,6 +18,7 @@ Instructions
 ## 2. Software Updater - Client
 
 > This is the client side of the software, where the user can only download new updates and patches from google drive.
+> [Project URL](https://github.com/NethunRanasinghe/Software-Updater-Client)
 
 ---
 
